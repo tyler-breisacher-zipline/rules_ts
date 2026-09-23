@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@emotion/sheet": "^1",
+        "@mui/material": "^5",
+        "@testing-library/dom": "^7",
+        "@testing-library/react": "^16",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "@types/node": "^24",
+        "@vitejs/plugin-react": "^5.1.2",
+        "jsdom": "^23",
+        "react": "^19.2.3",
+        "react-dom": "^19.2.3",
+        "vite": "^5",
+        "vitest": "^2"
+    }
+}
